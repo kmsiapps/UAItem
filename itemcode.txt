@@ -1,0 +1,1267 @@
+201710081
+
+Vehicle ID 1: Black Offroader : 검은색 오프로더
+Vehicle ID 2: Blue Offroader : 파란색 오프로더
+Vehicle ID 3: Green Offroader : 초록색 오프로더
+Vehicle ID 4: Orange Offroader : 주황색 오프로더
+Vehicle ID 5: Purple Offroader : 보라색 오프로더
+Vehicle ID 6: Red Offroader : 빨간색 오프로더
+Vehicle ID 7: White Offroader : 흰색 오프로더
+Vehicle ID 8: Yellow Offroader : 노란색 오프로더
+Vehicle ID 9: Black Hatchback : 검은색 해치백
+Vehicle ID 10: Blue Hatchback : 파란색 해치백
+Vehicle ID 11: Green Hatchback : 초록색 해치백
+Vehicle ID 12: Orange Hatchback : 주황색 해치백
+Vehicle ID 13: Purple Hatchback : 보라색 해치백
+Vehicle ID 14: Red Hatchback : 빨간색 해치백
+Vehicle ID 15: White Hatchback : 흰색 해치백
+Vehicle ID 16: Yellow Hatchback : 노란색 해치백
+Vehicle ID 17: Black Truck : 검은색 트럭
+Vehicle ID 18: Blue Truck : 파란색 트럭
+Vehicle ID 19: Green Truck : 초록색 트럭
+Vehicle ID 20: Orange Truck : 주황색 트럭
+Vehicle ID 21: Purple Truck : 보라색 트럭
+Vehicle ID 22: Red Truck : 빨간색 트럭
+Vehicle ID 23: White Truck : 흰색 트럭
+Vehicle ID 24: Yellow Truck : 노란색 트럭
+Vehicle ID 25: Black Sedan : 검은색 세단
+Vehicle ID 26: Blue Sedan : 파란색 세단
+Vehicle ID 27: Green Sedan : 초록색 세단
+Vehicle ID 28: Orange Sedan : 주황색 세단
+Vehicle ID 29: Purple Sedan : 보라색 세단
+Vehicle ID 30: Red Sedan : 빨간색 세단
+Vehicle ID 31: White Sedan : 흰색 세단
+Vehicle ID 32: Yellow Sedan : 노란색 세단
+Vehicle ID 33: Police Car : 경찰차
+Vehicle ID 34: Fire Truck : 소방차
+Vehicle ID 35: Black Van : 검은색 밴
+Vehicle ID 36: Blue Van : 파란색 밴
+Vehicle ID 37: Green Van : 초록색 밴
+Vehicle ID 38: Orange Van : 주황색 밴
+Vehicle ID 39: Purple Van : 보라색 밴
+Vehicle ID 40: Red Van : 빨간색 밴
+Vehicle ID 41: White Van : 흰색 밴
+Vehicle ID 42: Yellow Van : 노란색 밴
+Vehicle ID 43: Black Roadster : 검은색 로드스터
+Vehicle ID 44: Blue Roadster : 파란색 로드스터
+Vehicle ID 45: Green Roadster : 초록색 로드스터
+Vehicle ID 46: Orange Roadster : 주황색 로드스터
+Vehicle ID 47: Purple Roadster : 보라색 로드스터
+Vehicle ID 48: Red Roadster : 빨간색 로드스터
+Vehicle ID 49: White Roadster : 흰색 로드스터
+Vehicle ID 50: Yellow Roadster : 노란색 로드스터
+Vehicle ID 51: Forest Ural : 숲 우랄
+Vehicle ID 52: Forest Humvee : 숲 험비
+Vehicle ID 53: Forest APC : 숲 APC
+Vehicle ID 54: Ambulance : 구급차
+Vehicle ID 55: Desert Ural : 사막 우랄
+Vehicle ID 56: Desert Humvee : 사막 험비
+Vehicle ID 57: Desert APC : 사막 APC
+Vehicle ID 58: Explorer : 탐사 차량
+Vehicle ID 59: Black Sonwmobile : 검은색 스노모빌
+Vehicle ID 60: Blue Sonwmobile : 파란색 스노모빌
+Vehicle ID 61: Green Sonwmobile : 초록색 스노모빌
+Vehicle ID 62: Orange Sonwmobile : 주황색 스노모빌
+Vehicle ID 63: Purple Sonwmobile : 보라색 스노모빌
+Vehicle ID 64: Red Sonwmobile : 빨간색 스노모빌
+Vehicle ID 65: White Sonwmobile : 흰색 스노모빌
+Vehicle ID 66: Yellow Sonwmobile : 노란색 스노모빌
+Vehicle ID 67 : Black Quad : 검은색 사륜 오토바이
+Vehicle ID 68 : Blue Quad : 파란색 사륜 오토바이
+Vehicle ID 69 : Green Quad : 초록색 사륜 오토바이
+Vehicle ID 70 : Orange Quad : 주황색 사륜 오토바이
+Vehicle ID 71 : Purple Quad : 보라색 사륜 오토바이
+Vehicle ID 72 : Red Quad : 빨간색 사륜 오토바이
+Vehicle ID 73 : White Quad : 흰색 사륜 오토바이
+Vehicle ID 74 : Yellow Quad : 노란색 사륜 오토바이
+Vehicle ID 75: Golfcart : 골프용 차량
+Vehicle ID 76: Taxi : 택시
+Vehicle ID 77: Black Racecar : 검은색 경주용 차량
+Vehicle ID 78: Blue Racecar : 파란색 경주용 차량
+Vehicle ID 79: Green Racecar : 초록색 경주용 차량
+Vehicle ID 80: Orange Racecar : 주황색 경주용 차량
+Vehicle ID 81: Purple Racecar : 보라색 경주용 차량
+Vehicle ID 82: Red Racecar : 빨간색 경주용 차량
+Vehicle ID 83: White Racecar : 흰색 경주용 차량
+Vehicle ID 84: Yellow Racecar : 노란색 경주용 차량
+Vehicle ID 85: Tractor : 트랙터
+Vehicle ID 86: Bus : 버스
+Vehicle ID 87: Forest Jeep : 숲 지프
+Vehicle ID 92: Sandpiper : 경비행기
+Vehicle ID 93: Forest Huey : 숲 휴이(헬기)
+Vehicle ID 94: Desert Huey : 사막 휴이(헬기)
+Vehicle ID 95: Skycrane : 물품 수송헬기
+Vehicle ID 96: Otter : 해상비행기
+Vehicle ID 97: Runaboat: 루나보트
+Vehicle ID 98: Black Jetski : 검정색 제트스키
+Vehicle ID 99: Blue Jetski : 파란색 제트스키
+Vehicle ID 100: Green Jetski : 초록색 제트스키
+Vehicle ID 101: Orange Jetski : 주황색 제트스키
+Vehicle ID 102: Purple Jetski : 보라색 제트스키
+Vehicle ID 103: Red Jetsk i: 빨간색 제트스키
+Vehicle ID 104: White Jetski : 흰색 제트스키
+Vehicle ID 105: Yellow Jetski : 노랑색 제트스키
+Vehicle ID 106: Police Helicopter : 경찰헬기
+Vehicle ID 107: Hummingbird : 허밍버드(헬기)
+Vehicle ID 108: Police Launch : 경찰보트
+Vehicle ID 109: Rainbow Hatchback : 무지개 해치백
+Vehicle ID 110: Balck Auto : 검은색 오토
+Vehicle ID 111: Blue Auto : 파란색 오토
+Vehicle ID 112: Green Auto : 초록색 오토
+Vehicle ID 113: Orange Auto : 주황색 오토
+Vehicle ID 114: Purple Auto : 보라색 오토
+Vehicle ID 115: Red Auto : 빨간색 오토
+Vehicle ID 116: White Auto : 흰색 오토
+Vehicle ID 117: Yellow Auto : 노란색 오토
+Vehicle ID 118: Toiler : 토일러
+Vehicle ID 119: Russia APC : 러시아 APC
+Vehicle ID 120: Forest Tank : 숲 탱크
+Vehicle ID 121: Desert Tank : 사막 탱크
+Vehicle ID 122: Luggage Car : 화물차
+Vehicle ID 123: Ghost : 고스트
+Vehicle ID 124: Dinghy : 고무보트
+Vehicle ID 125: Black Rover : 검은색 로버
+Vehicle ID 126: Blue Rover : 파란색 로버
+Vehicle ID 127: Green Rover : 초록색 로버
+Vehicle ID 128: Orange Rover : 주황색 로버
+Vehicle ID 129: Purple Rover : 보라색 로버
+Vehicle ID 130: Red Rover : 빨간색 로버
+Vehicle ID 131: White Rover : 흰색 로버
+Vehicle ID 132: Yellow Rover : 노란색 로버
+Vehicle ID 133: Annushka : 어널슈카(비행기)
+Vehicle ID 134: Orca : 오르카(헬기)
+Vehicle ID 135: Hind : 하인드(헬기)
+Vehicle ID 136: Russia Ural : 러시아 우랄
+Vehicle ID 137: Russia Tank : 러시아 탱크
+Vehicle ID 138: Russia Tractor : 러시아 트랙터
+vehicle ID 139: Moon Buggy : 달 버기
+Vehicle ID 140: Fighter Jet : 전투기, 제트기
+Vehicle ID 141: Dumptruck: 덤프트럭, 덤프
+Vehicle ID 142: Prison Transport Truck: 죄수 호송 차량
+Vehicle ID 143: Russia Humvee : 러시아 험비
+Vehicle ID 144: Russia Huey : 러시아 휴이(헬기)
+Vehicle ID 145: Russia Jeep : 러시아 지프
+Vehicle ID 146: Coalition Jeep : 연합군 지프
+Vehicle ID 147: Coalition Ural : 연합군 우랄
+Vehicle ID 148: Russia APC : 러시아 APC
+Vehicle ID 149: Black Rabbit : 검은색 레빗
+Vehicle ID 150: Blue Rabbit : 파란색 레빗
+Vehicle ID 151: Green Rabbit : 초록색 레빗
+Vehicle ID 152: Orange Rabbit : 주황색 레빗
+Vehicle ID 153: Purple Rabbit : 보라색 레빗
+Vehicle ID 154: Red Rabbit : 빨간색 레빗
+Vehicle ID 155: White Rabbit : 하얀색 레빗
+Vehicle ID 156: Yellow Rabbit : 노란색 레빗
+Vehicle ID 157: Eagle : 러시아 이글
+Vehicle ID 158: Black Beetle : 검은색 비틀
+Vehicle ID 159: Blue Beetle : 파란색 비틀
+Vehicle ID 160: Green Beetle : 초록색 비틀
+Vehicle ID 161: Orange Beetle : 주황색 비틀
+Vehicle ID 162: Purple Beetle : 보라색 비틀
+Vehicle ID 163: Red Beetle : 빨간색 비틀
+Vehicle ID 164: White Beetle : 하얀색 비틀
+Vehicle ID 165: Yellow Beetle : 노란색 비틀
+Vehicle ID 166: German Police Car : 독일 경찰차
+Vehicle ID 167: German Firetruck : 독일 소방차
+Vehicle ID 168: German Ambulance : 독일 구급차
+Vehicle ID 169: German Police Helicopter : 독일 경찰헬기
+Vehicle ID 176: Black Dirtbike : 검은색 비포장 도로용 오토바이
+Vehicle ID 177: Blue Dirtbike : 파란색 비포장 도로용 오토바이
+Vehicle ID 178: Green Dirtbike : 초록색 비포장 도로용 오토바이
+Vehicle ID 179: Orange Dirtbike : 주황색 비포장 도로용 오토바이
+Vehicle ID 180: Purple Dirtbike : 보라색 비포장 도로용 오토바이
+Vehicle ID 181: Red Dirtbike : 빨간색 비포장 도로용 오토바이
+Vehicle ID 182: White Dirtbike : 하얀색 비포장 도로용 오토바이
+Vehicle ID 183: Yellow Dirtbike : 노란색 비포장 도로용 오토바이
+
+Vehicle ID 802: Armoured Police Truck : 장갑 경찰 트럭 
+Vehicle ID 803: Commander : 커맨더
+Vehicle ID 804: Fire Tanker : 소방 탱커
+Vehicle ID 805: Fire Chief : 소방 지휘차
+Vehicle ID 806: Coaster : 코스터
+Vehicle ID 807: Hovercraft : 호버크래프트
+Vehicle ID 808: Bouncer : 바운서
+Vehicle ID 809: Coastguard Truck : 해안 경비대 트럭
+Vehicle ID 810: Coastguard Seaplane : 해안 경비대 수상 비행기
+Vehicle ID 811: Red Sportscar : 빨간색 스포츠 카
+Vehicle ID 812: Black Sportscar : 검은색 스포츠 카
+Vehicle ID 813: Blue Sportscar : 파란색 스포츠 카
+Vehicle ID 814: Green Sportscar : 초록색 스포츠 카
+Vehicle ID 815: Orange Sportscar : 주황색 스포츠 카
+Vehicle ID 816: Purple Sportscar : 보라색 스포츠 카
+Vehicle ID 817: White Sportscar : 하얀색 스포츠 카
+Vehicle ID 818: Yellow Sportscar : 노란색 스포츠 카
+Vehicle ID 819: Orange Dune Buggy : 주황색 버기
+Vehicle ID 820: Red Dune Buggy : 빨간색 버기
+Vehicle ID 821: Black Dune Buggy : 검은색 버기
+Vehicle ID 822: Blue Dune Buggy : 파란색 버기
+Vehicle ID 823: Green Dune Buggy : 초록색 버기
+Vehicle ID 824: Purple Dune Buggy : 보라색 버기
+Vehicle ID 825: White Dune Buggy : 하얀색 버기
+Vehicle ID 826: Yellow Dune Buggy : 노란색 버기
+Vehicle ID 827: Fishing Boat : 낚시 배
+Vehicle ID 828: Coast Guard Jeep : 해안 경비대 지프
+Vehicle ID 829: Desert Truck : 사막 트럭
+Vehicle ID 830:  War Machine : 워 머신
+Vehicle ID 831:  Skipper : 스키퍼
+Vehicle ID 832:  Blue Scrounger : 파란색 스크루저
+Vehicle ID 833:  Black Scrounger : 검은색 스크루저
+Vehicle ID 834:  Green Scrounger : 초록색 스크루저
+Vehicle ID 835:  Orange Scrounger : 주황색 스크루저
+Vehicle ID 836:  Red Scrounger : 빨간색 스크루저
+Vehicle ID 837:  Purple Scrounger : 보라색 스크루저
+Vehicle ID 838:  White Scrounger : 하얀색 스크루저
+Vehicle ID 839:  Yellow Scrounger : 노란색 스크루저
+Vehicle ID 840: Bulldozer : 불도저
+Vehicle ID 841: Cement Truck : 레미콘 트럭
+Vehicle ID 842: Skid Loader : 스키드 로더
+Vehicle ID 843: Sport Dune Buggy : 스포츠 듄버기
+Vehicle ID 844: Scavenger : 스캐빈저
+Vehicle ID 845: Legareno : 레가레노
+Vehicle ID 846: Auto Gyro : 오토자이로
+Vehicle ID 847: Delivery Truck : 하물 배달 트럭
+Vehicle ID 848: Makeshift Raft : 수제 뗏목
+Vehicle ID 849: Hot Air Balloon : 열기구
+
+
+Animal ID 1: Deer : 사슴
+Animal ID 2: Reindeer : 순록
+Animal ID 3: Wolf : 늑대
+Animal ID 4: Pig : 돼지
+Animal ID 5: Bear : 곰
+Animal ID 6: Cow : 소
+
+Job ID 0: Cityzen : 시민
+Job ID 1: FireFigher : 소방관
+Job ID 2: Police Officer : 경찰관
+Job ID 3: Spec Ops : 특수부대
+Job ID 4: Farmer : 농부
+Job ID 5: Fisherman : 낚시꾼
+Job ID 6: Lumberjack : 벌목꾼
+Job ID 7: Worker : 회사원
+Job ID 8: Chef : 요리사
+Job ID 9: Theif : 도둑
+Job ID 10: Doctor : 의사
+Job ID 255: All Player : 모든 플레이어
+
+item ID 1: Shades : 선글라스
+item ID 2: Jeans : 청바지
+item ID 3: Orange Hoodie : 오랜지 후드
+item ID 4: Eaglefire (Military box) : 이글파이어
+item ID 5: Eaglefire Iron Sights : 이글파이어 기계식 조준기
+item ID 6: Military Magazine : 군용 탄창
+item ID 7: Military Suppressor : 군용 소음기
+item ID 8: Vertical Grip : 수직 손잡이
+item ID 9: Red Daypack : 빨간색 데이팩
+item ID 10: Police Vest : 경찰 방탄복
+item ID 11: Red Bandana : 빨간색 반다나
+item ID 12: Ushanka : 우샨카
+item ID 13: Canned Beans : 콩 통조림
+item ID 14: Bottled Water : 생수
+item ID 15: Medkit : 메디킷
+item ID 16: Camp Axe : 캠프 도끼
+item ID 17: Military Drum : 군용 드럼
+item ID 18: Timberwolf (High Military box) : 팀버울프
+item ID 19: Timberwolf Iron Sights : 팀버울프 기계식 조준기
+item ID 20: Timberwolf Magazine : 팀버울프 탄창
+item ID 21: 8x Scope : 8배율 조준경
+item ID 22: Red Cross Scope : 레드 크로스 조준경
+item ID 23: Tuxedo Pants : 턱시도 바지
+item ID 24: Tuxedo Shirt : 턱시도 셔츠
+item ID 25: Gold Bowtie : 황금 나비넥타이
+item ID 26: Monocle : 모노클
+item ID 27: Tophat : 실크 모자
+item ID 28: Gas Can : 가스캔 연료통 가스통
+item ID 29: Maple Fortification : 단풍나무 방어시설
+item ID 30: Maple Barricade : 단풍나무 바리케이드
+item ID 31: Maple Foundation : 단풍나무 바닥
+item ID 32: Maple Doorway : 단풍나무 출입구
+item ID 33: Maple Wall : 단풍나무 벽
+item ID 34: Maple Window : 단풍나무 창틀
+item ID 35: Maple Roof : 단풍나무 지붕
+item ID 36: Maple Pillar : 단풍나무 기둥
+item ID 37: Birch Log : 자작나무인 통나무
+item ID 38: Birch Stick : 자작나무 막대기
+item ID 39: Maple Log : 단풍나무인 통나무
+item ID 40: Maple Stick : 단풍나무 막대기
+item ID 41: Pine Log : 소나무인 통나무
+item ID 42: Pine Stick : 소나무 막대기
+item ID 43: Military Ammo Crate : 군용 탄약 상자
+item ID 44: Civilian Ammo Box : 민수용 탄약 상자
+item ID 45: Birch Barricade : 자작나무 바리케이드
+item ID 46: Pine Barricade : 소나무 바리케이드
+item ID 47: Birch Fortification : 자작나무 방어시설
+item ID 48: Pine Fortification : 소나무 방어시설
+item ID 49: Birch Doorway : 자작나무 출입구
+item ID 50: Pine Doorway : 소나무 출입구
+item ID 51: Birch Foundation : 자작나무 바닥
+item ID 52: Pine Foundation : 소나무 바닥
+item ID 53: Birch Pillar : 자작나무 기둥
+item ID 54: Pine Pillar : 소나무 기둥
+item ID 55: Birch Roof : 자작나무 지붕
+item ID 56: Pine Roof : 소나무 지붕
+item ID 57: Birch Wall : 자작나무 벽
+item ID 58: Pine Wall : 소나무 벽
+item ID 59: Birch Window : 자작나무 창틀
+item ID 60: Pine Window : 소나무 창틀
+item ID 61: Maple Plank : 단풍나무 판자
+item ID 62: Birch Plank  : 자작나무 판자
+item ID 63: Pine Plank : 소나무 판자
+item ID 64: Rope : 밧줄
+item ID 65: Wire : 철사
+item ID 66: Cloth : 천
+item ID 67: Metal Scrap : 고철
+item ID 68: Metal Sheet : 철판
+item ID 69: Tape : 테이프
+item ID 70: Glue :풀
+item ID 71: Nails : 못
+item ID 72: Can : 캔
+item ID 73: Explosives : 폭발물
+item ID 74: Bricks : 벽돌
+item ID 75: Chemicals : 화학물질
+item ID 76: Blowtorch : 용접기
+item ID 77: Canned Tomato Soup : 토마토 수프 통조림
+item ID 78: Canned Chicken Soup : 닭고기 수프 통조림
+item ID 79: Canned Tuna : 참치 통조림
+item ID 80: Canned Cola : 콜라 캔
+item ID 81: MRE : 전투식량
+item ID 82: Chips : 과자 칩
+item ID 83: Chocolate Bar : 초콜렛 바
+item ID 84: Candy Bar : 캔디 바
+item ID 85: Granola Bar  : 그래놀라 바
+item ID 86: Energy Bar : 에너지 바
+item ID 87: Canned Pasta : 파스타 통조림
+item ID 88: Canned Bacon : 베이컨 통조림
+item ID 89: Canned Beef : 소고기 통조림
+item ID 90: Canned Sardines : 정어리 통조림
+item ID 91: Apple Juice : 사과 주스
+item ID 92: Grape Juice : 포도 주스
+item ID 93: Bottled Energy  : 에너지 음료
+item ID 94: Bottled Coconut : 코코넛 음료
+item ID 95: Bandage : 붕대
+item ID 96: Splint : 부목
+item ID 97: Colt (Civilian box) : 콜트
+item ID 98: Colt Magazine : 콜트 탄창
+item ID 99: Cobra (Civilian box) : 코브라
+item ID 100: Cobra Magazine : 코브라 탄창
+item ID 101: Schofield (Civilian box) : 스코필드
+item ID 102: Schofield Iron Sights : 스코필드 기계식 조준기
+item ID 103: Schofield Clip : 스코필드 클립
+item ID 104:Fire Axe : 소방도끼
+item ID 105: Baseball Bat : 야구방망이
+item ID 106: Hockey Stick : 하키채
+item ID 107: Ace (Civilian box) : 에이스
+item ID 108: Ace Clip : 에이스 클립
+item ID 109: Hawkhound (Civilian box) : 호크하운드
+item ID 110: Hawkhound Iron Sights : 호크하운드 기계식 조준기
+item ID 111: Hawkhound Magazine : 호크하운드 탄창
+item ID 112: Bluntforce (12 Gauge Shells) : 블런트포스
+item ID 113: Shells : 산탄총 탄약
+item ID 114: Bluntforce Iron Sights : 블런트포스 기계식 조준기
+item ID 115: Pink Berry : 분홍색 열매
+item ID 116: Honeybadger (Military box) : 허니배저
+item ID 118: Honeybadger Iron Sights : 허니배저 기계식 조준기
+item ID 119: Ranger Ammo Box : 레인저 탄약 상자
+item ID 120: Kitchen Knife : 부엌칼
+item ID 121: Military Knife : 군용 칼
+item ID 122: Zubekanov (Ranger box) : 주베크나코브
+item ID 123: Ranger Magazine : 레인저 탄창
+item ID 124: Zubeknakov Iron Sights : 주베크나코브 기계식 조준기
+item ID 125: Ranger Drum : 레인저 드럼
+item ID 126: Nykorev (Ranger box) : 니코레브
+item ID 127: Nykorev Box : 니코레브 상자
+item ID 128: Nykorev Iron Sights : 니코레브 기계식 조준기
+item ID 129: Snayperskya (Ranger box) : 스내이퍼스키아
+item ID 130: Snayperskya Magazine : 스내이퍼스키아 탄창
+item ID 131: Snayperskya Iron Sights : 스내이퍼스키아 기계식 조준기
+item ID 132: Dragonfang (Military box) : 드래곤팽
+item ID 133: Dragonfang Box : 드래곤팽 상자
+item ID 134: Dragonfang Iron Sights : 드래곤팽 기계식 조준기
+item ID 135: Golf Club : 골프채
+item ID 136: Sledge Hammer : 슬레지해머
+item ID 137: Butcher Knife : 정육도
+item ID 138: Hammer : 망치
+item ID 139: Swiss Knife : 스위스 칼
+item ID 140: Butterfly Knife : 버터플라이 나이프/발리송
+item ID 141: Saw : 톱
+item ID 142: Rake : 갈퀴
+item ID 143: Bipod : 양각대
+item ID 144: Ranger Suppressor : 레인저 소음기
+item ID 145: Horizontal Grip : 수평 손잡이
+item ID 146: Red Dot Sight : 레드닷 조준기
+item ID 147: Red Halo Sight : 레드 헤일로 조준기
+item ID 148: Red Chevron Scope : 레드 체브론 조준경
+item ID 149: Military Barrel : 군용 총열
+item ID 150: Military Muzzle : 군용 소염기
+item ID 151: Tactical Laser : 전술 레이저
+item ID 152: Tactical Light : 전술 라이트
+item ID 153: 7x Scope : 7배율 조준경
+item ID 154: Orange Shirt : 주황색 셔츠
+item ID 155: Orange Tee : 주황색 티
+item ID 156: Orange Parka : 주황색 파카
+item ID 157: Purple Hoodie : 보라색 후디
+item ID 158: Purple Shirt : 보라색 셔츠
+item ID 159: Purple Tee : 보라색 티
+item ID 160: Purple Parka : 보라색 파카
+item ID 161: Green Hoodie : 초록색 후디
+item ID 162: Green Parka : 초록색 파카
+item ID 163: Green Shirt : 초록색 셔츠
+item ID 164: Green Tee : 초록색 티
+item ID 165: Red Hoodie : 빨간색 후디
+item ID 166: Red Parka : 빨간색 파카
+item ID 167: Red Shirt : 빨간색 셔츠
+item ID 168: Red Tee : 빨간색 티
+item ID 169: Yellow Hoodie : 노란색 후디
+item ID 170: Yellow Parka : 노란색 파카
+item ID 171: Yellow Shirt : 노란색 셔츠
+item ID 172: Yellow Tee : 노란색 티
+item ID 173: Blue Hoodie : 파란색 후디
+item ID 174: Blue Parka : 파란색 파카
+item ID 175: Blue Shirt : 파란색 셔츠
+item ID 176: Blue Tee : 파란색 티
+item ID 177: White Hoodie : 흰색 후디
+item ID 178: White Parka : 흰색 파카
+item ID 179: White Shirt : 흰색 셔츠
+item ID 180: White Tee : 흰색 티
+item ID 181: Black Hoodie : 검은색 후디
+item ID 182: Black Parka : 검은색 파카
+item ID 183: Black Shirt : 검은색 셔츠
+item ID 184: Black Tee : 검은색 티
+item ID 185: Black Bandana : 검은색 반다나
+item ID 186: Blue Bandana : 파란색 반다나
+item ID 187: Green Bandana : 초록색 반다나
+item ID 188: Orange Bandana : 주황색 반다나
+item ID 188: Orange Hoodie : 주황색 후디
+item ID 189: Purple Bandana :  보라색 반다나
+item ID 190: White Bandana : 흰색 반다나
+item ID 191: Yellow Bandana : 노란색 반다나
+item ID 192: Black Toque : 검은색 토크
+item ID 193: Blue Toque : 파란색 토크
+item ID 194: Green Toque : 초록색 토크
+item ID 195: Orange Toque : 주황색 토크
+item ID 196: Purple Toque : 보라색 토크
+item ID 197: Red Toque : 빨간색 토크
+item ID 198: White Toque : 흰색 토크
+item ID 199: Yellow Toque : 노란색 토크
+item ID 200: Black Daypack : 검은색 데이팩
+item ID 201: Blue Daypack : 파란색 데이팩
+item ID 202: Green Daypack : 초록색 데이팩
+item ID 203: Orange Daypack : 주황색 데이팩
+item ID 204: Purple Daypack : 보라색 데이팩
+item ID 205: White Daypack : 흰색 데이팩
+item ID 206: Yellow Daypack : 노란색 데이팩
+item ID 207: Designer Jeans : 디자이너 청바지
+item ID 208: Cowboy Jeans : 카우보이 청바지
+item ID 209: Cargo Pants : 카고 바지
+item ID 210: Buds : 이어폰
+item ID 211: Plaitem ID Shirt : 체크무늬 셔츠
+item ID 212: Kahki Pants : 카키 바지
+item ID 213: Corduroy Pants : 코듀로이 바지
+item ID 214: Trouser Pants : 트라우저 바지
+item ID 215: Back Sweatervest : 검은색 스웨터 조끼
+item ID 216: Blue Sweatervest : 파란색 스웨터 조끼
+item ID 217: Green Sweatervest : 초록색 스웨터 조끼
+item ID 218: Orange Sweatervest : 주황색 스웨터 조끼
+item ID 219: Purple Sweatervest : 보라색 스웨터 조끼
+item ID 220: Red Sweatervest : 빨간색 스웨터 조끼
+item ID 221: White Sweatervest : 흰색 스웨터 조끼
+item ID 222: Yellow Sweatervest : 노란색 스웨터 조끼
+item ID 223: Police Top : 경찰복 상의
+item ID 224: Police Bottom : 경찰복 하의
+item ID 225: Police Cap : 경찰 모자
+item ID 226: Khaki Shorts : 카키 반바지
+item ID 227: Cargo Shorts : 카고 반바지
+item ID 228: Corduroy Shorts : 코듀로이 반바지
+item ID 229: Trouser Shorts : 트라우저 반바지
+item ID 230: Chef Top : 조리복 상의
+item ID 231: Chef Bottom : 조리복 하의
+item ID 232: Construction Top : 건설복 상의
+item ID 233: Firefighter Top : 소방복 상의
+item ID 234: Firefighter Bottom : 소방복 하의
+item ID 235: Ghillie Top : 길리 상의
+item ID 236: Ghillie Bottom : 길리 하의
+item ID 237: Ghillie Hoodie : 길리 후드
+item ID 238: Ghillie Vest : 길리 조끼
+item ID 239: Chef Hat : 요리사 모자
+item ID 240: Construction Helmet : 안전모
+item ID 241: Firefighter Helmet : 소방관 헬멧
+item ID 242: Farmer Top : 농부 상의
+item ID 243: Farmer Bottom : 농부 하의
+item ID 244: Farmer Hat  : 농부 모자
+item ID 245: Black Travelpack : 검은색 여행가방
+item ID 246: Blue Travelpack : 파란색 여행가방
+item ID 247: Green Travelpack : 초록색 여행가방
+item ID 248: Orange Travelpack : 주황색 여행가방
+item ID 249: Purple Travelpack : 보라색 여행가방
+item ID 250: Red Travelpack : 빨간색 여행가방
+item ID 251: White Travelpack : 흰색 여행가방
+item ID 252: Yellow Travelpack : 노란색 여행가방
+item ID 253: Alicepack : 앨리스팩
+item ID 254: Grenade : 수류탄
+item ID 255: Blue Flare : 파란색 조명탄
+item ID 256: Green Flare : 초록색 조명탄
+item ID 257: Orange Flare : 주황색 조명탄
+item ID 258: Purple Flare : 보라색 조명탄
+item ID 259: Red Flare : 빨간색 조명탄
+item ID 260: Yellow Flare : 노란색 조명탄
+item ID 261: Black Smoke : 검은색 연막탄
+item ID 262: Blue Smoke :  파란색 연막탄
+item ID 263: Green Smoke : 초록색 연막탄
+item ID 264: Orange Smoke : 주황색 연막탄
+item ID 265: Purple Smoke : 보라색 연막탄
+item ID 266: Red Smoke : 빨간색 연막탄
+item ID 267: White Smoke : 흰색 연막탄
+item ID 268: Yellow Smoke : 노란색 연막탄
+item ID 269: Vaccine : 백신
+item ID 270: Amber Berry : 황색 열매
+item ID 271: Indigo Berry : 암청색 열매/파란색 열매
+item ID 272: Jade Berry : 옥색 열매
+item ID 273: Russet Berry : 적갈색 열매
+item ID 274: Teal Berry : 청록색 열매 
+item ID 275: Vermillion Berry : 주색 열매/빨간색 열매
+item ID 276: Flashlight : 손전등
+item ID 277: Carjack : 카잭
+item ID 278: Santa Hat : 산타 모자
+item ID 279: Santa Top :산타 상의
+item ID 280: Santa Bottom : 산타 하의
+item ID 281: Maple Door : 단풍나무 문
+item ID 282: Birch Door : 자작나무 문
+item ID 283: Pine Door : 소나무 문
+item ID 284: Jail Door : 감옥 문
+item ID 285: Metal Bars : 철창
+item ID 286: Vault Doors : 금고 문
+item ID 287: Bars Fortification : 철창 방어시설
+item ID 288: Black Bedrolls : 검은색 침낭
+item ID 289: Blue Bedrolls : 파란색 침낭
+item ID 290: Green Bedrolls : 초록색 침낭
+item ID 291: Orange Bedrolls : 주황색 침낭
+item ID 292: Purple Bedrolls : 보라색 침낭
+item ID 293: Red Bedrolls : 빨간색 침낭
+item ID 294: White Bedrolls : 흰색 침낭
+item ID 295: Yellow Bedrolls : 노란색 침낭
+item ID 296: 16x Scope : 16배율 조준경
+item ID 297: Grizzly Sniper Rifle (High Military box) : 그리즐리
+item ID 298: Grizzly Mag : 그리즐리 탄창
+item ID 299: Grizzly Iron Sights : 그리즐리 기계식 조준기
+item ID 300: Shadow Stalker (Rail) : 섀도우스토커
+item ID 301: Rail : 레일
+item ID 302: Shadowstalker Scope : 섀도우스토커 조준경
+item ID 303: Prisoner Top : 죄수복 상의
+item ID 304: Prisoner Bottom : 죄수복 하의
+item ID 305: RCMP Bottom : RCMP 하의
+item ID 306: RCMP Top : RCMP 상의
+item ID 307: Forest Military Top : 숲 군복 상의
+item ID 308: Forest Military Bottom : 숲 군복 하의
+item ID 309: Forest Military Helmet : 숲 군모
+item ID 310: Forest Military Vest : 숲 군인 조끼
+item ID 310: Military Vest : 군인 조끼
+item ID 311: Doctor Top : 의사 상의
+item ID 312: Doctor Bottom : 의사 하의
+item ID 313: RCMP Hat : RCMP 모자
+item ID 314: Grocer Top : 식료품상 상의
+item ID 315: Grocer Bottom : 식료품상 하의
+item ID 316: Maple Stairs : 단풍나무 계단
+item ID 317: Pine Stairs : 소나무 계단
+item ID 318: Birch Stairs : 자작나무 계단
+item ID 319: Maple Hole : 단풍나무 구멍
+item ID 320: Pine Hole : 소나무 구멍
+item ID 321: Birch Hole : 자작나무 구멍
+item ID 322: Maple Ramp : 단풍나무 경사면
+item ID 323: Birch Ramp : 자작나무 경사면
+item ID 324: Pine Ramp : 소나무 경사면
+item ID 325: Maple Ladder : 단풍나무 사다리
+item ID 326: Birch Ladder : 자작나무 사다리
+item ID 327: Pine Ladder : 소나무 사다리
+item ID 328: Locker : 금고
+item ID 329: Carrot : 당근
+item ID 330: Carrot Seed : 당근 씨앗
+item ID 331: Planter : 화분
+item ID 332: Fertilizer : 비료
+item ID 333: Binoculars : 쌍안경
+item ID 334: Night Vision Goggles : 야간 투시경
+item ID 335: Corn : 옥수수
+item ID 336: Corn Seed : 옥수수 씨앗
+item ID 337: Canteen : 수통
+item ID 338: Lettuce : 양상추
+item ID 339: Lettuce Seed : 양상추 씨앗
+item ID 340: Tomato : 토마토
+item ID 341: Tomato Seed : 토마토 씨앗
+item ID 342: Potato : 감자
+item ID 343: Potato Seed : 감자 씨앗
+item ID 344: Wheat : 밀
+item ID 345: Wheat Seed : 밀 씨앗
+item ID 346: Crossbow : 석궁
+item ID 347: Arrow : 화살
+item ID 348: Maple Arrow : 단풍나무 화살
+item ID 349: Crossbow Iron Sights : 석궁 기계식 조준기
+item ID 350: Crossbow Barrel : 석궁 바렐
+item ID 351: Birch Arrow : 자작나무 화살
+item ID 352: Pine Arrow : 소나무 화살
+item ID 353: Maple Bow : 단풍나무 활
+item ID 353: Maple Arrow : 단풍나무 화살
+item ID 354: Bow Barrel : 활 바렐
+item ID 355: Birch Bow : 자작나무 활
+item ID 356: Pine Bow : 소나무 활
+item ID 357: Compound Bow : 컴파운드 활
+item ID 358: Compound Bow Iron Sights : 컴파운드 활 기계식 조준기
+item ID 359: Maple Torch : 단풍나무 횃불
+item ID 360: Birch Torch : 자작나무 횃불
+item ID 361: Pine Torch : 소나무 횃불
+item ID 362: Campfire : 모닥불
+item ID 363: Maplestrike (Military box) : 메이플 스트라이크
+item ID 364: Maplestrike Iron Sights : 메이플 스트라이크 기계식 조준기
+item ID 365: Sandbags : 샌드백
+item ID 366: Maple Crate : 단풍나무 상자
+item ID 367: Birch Crate : 자작나무 상자
+item ID 368: Pine Crate : 소나무 상자
+item ID 369: Metal Floor : 철제 바닥
+item ID 370: Metal Doorway : 철제 출입구
+item ID 371: Metal Wall : 철제 벽
+item ID 372: Metal Window : 철제 창틀
+item ID 373: Metal Roof : 철제 지붕
+item ID 374: Metal Pillar : 철제 기둥
+item ID 375: Metal Stairs : 철제 계단
+item ID 376: Metal Hole : 철제 구멍
+item ID 377: Metal Ramp : 철제 경사면
+item ID 378: Metal Door : 철제 문
+item ID 379: Metal Ladder : 철제 사다리
+item ID 380: Masterkey (20 Gauge Shells) : 마스터키
+item ID 381: 20 Gauge Shells : 20게이지 산탄총 탄약
+item ID 382: Caltrop : 삼각대
+item ID 383: Maple Spikes : 단풍나무 가시 함정
+item ID 384: Birch Spikes : 자작나무 가시 함정
+item ID 385: Pine Spikes : 소나무 가시 함정
+item ID 386: Barbed Wire : 가시 철조망
+item ID 387: Adrenaline : 아드레날린
+item ID 388: Morphine : 모르핀
+item ID 389: Antibiotics : 항생제
+item ID 390: Painkillers : 진통제
+item ID 391: Vitamins : 비타민
+item ID 392: Tablets : 정화제
+item ID 393: Rag : 손수건
+item ID 394: Dressing : 압박붕대
+item ID 395: Bloodbag : 수혈팩
+item ID 396: Crushed Mauve Berries : 으깬 연보라색 열매
+item ID 397: Crushed Amber Berries : 으깬 황색 열매
+item ID 398: Crushed Indigo Berries : 으깬 암청색/파란색 열매
+item ID 399: Crushed Jade Berries : 으깬 옥색 열매
+item ID 400: Crushed Russet Berries : 으깬 적갈색 열매
+item ID 401: Crushed Teal Berries : 으깬 청록색 열매
+item ID 402: Crushed Vermillion Berries : 으깬 주색/빨간색 열매
+item ID 403: Suturekit : 봉합수술 킷
+item ID 404: Cough Syrup : 기침약 시럽
+item ID 406: Mechanic Bottom : 정비공 상의
+item ID 407: Engineer Top : 수리공 상의
+item ID 408: Engineer Bottom : 수리공 하의
+item ID 409: Aviators : 비행사 고글
+item ID 410: Black Poncho : 검은색 판초
+item ID 411: Blue Poncho : 파란색 판초
+item ID 412: Green Poncho : 초록색 판초
+item ID 413: Orange Poncho : 주황색 판초
+item ID 414: Purple Poncho : 보라색 판초
+item ID 415: Red Poncho : 빨간색 판초
+item ID 416: White Poncho : 흰색 판초
+item ID 417: Yellow Poncho : 노란색 판초
+item ID 418: Headphone : 헤드폰
+item ID 419: Flight Jacket : 비행사 자켓 
+item ID 420: Biker Jacket : 바이커 자켓
+item ID 421: Suit Top : 양복 상의
+item ID 422: Suit Bottom : 양복 하의
+item ID 423: Engineer Hat : 수리공 모자
+item ID 424: Fedora : 페도라
+item ID 425: Black Cap : 검은색 모자
+item ID 426: Blue Cap : 파란색 모자
+item ID 427: Green Cap : 초록색 모자
+item ID 428: Orange Cap : 주황색 모자
+item ID 429: Purple Cap : 보라색 모자
+item ID 430: Red Cap : 빨간색 모자
+item ID 431: White Cap : 흰색 모자
+item ID 432: Yellow Cap : 노란색 모자
+item ID 433: Forest Beret : 숲 베레모
+item ID 434: Black Balaclava : 검은색 발라클라바
+item ID 435: Blue Balaclava : 파란색 발라클라바
+item ID 436: Green Balaclava : 초록색 발라클라바
+item ID 437: Orange Balaclava : 주황색 발라클라바
+item ID 438: Purple Balaclava : 보라색 발라클라바
+item ID 439: Red Balaclava : 빨간색 발라클라바
+item ID 440: White Balaclava : 흰색 발라클라바
+item ID 441: Yellow Balaclava : 노란색 발라클라바
+item ID 442: Maple Rampart : 단풍나무 반벽
+item ID 443: Maple Post : 단풍나무 반기둥
+item ID 444: Birch Rampart : 자작나무 반벽
+item ID 445: Pine Rampart : 소나무 반벽
+item ID 446: Metal Rampart : 철제 반벽
+item ID 447: Birch Post : 자작나무 반기둥
+item ID 448: Pine Post : 소나무 반기둥
+item ID 449: Metal Post : 철제 반기둥
+item ID 450: Maple Garage : 단풍나무 차고
+item ID 451: Maple Gate : 단풍나무 출입문
+item ID 452: Birch Garage : 자작나무 차고
+item ID 453: Pine Garage : 소나무 차고
+item ID 454: Metal Garage : 철제 차고
+item ID 455: Birch Gate : 자작나무 출입문
+item ID 456: Pine Gate : 소나무 출입문
+item ID 457: Metal Gate : 철제 출입문
+item ID 458: Generator : 발전기
+item ID 459: Spotlight : 조명 스포트라이트
+item ID 460: Bread : 빵
+item ID 461: Tuna Sandwich : 참치 샌드위치
+item ID 462: Milk Box : 우유
+item ID 463: Orange Juice : 오렌지 주스
+item ID 464: Cheese : 치즈
+item ID 465: Canned Soda : 소다 캔
+item ID 466: Grilled Cheese Sandwich : 구운 치즈 샌드위치
+item ID 467: BLT Sandwich : BLT 샌드위치 (베이컨, 양배추, 토마토 샌드위치)
+item ID 468: Ham Sandwich : 햄 샌드위치
+item ID 469: Canned Ham : 햄 통조림
+item ID 470: Eggs : 달걀
+item ID 471: Cake : 케이크 케
+item ID 472: Bottled Cola : 콜라 음료
+item ID 473: Bottled Soda : 소다 음료
+item ID 474: Maple Rifle (Civilian box) : 단풍나무 소총
+item ID 475: Rifle Iron Sights : 소총 기계식 조준기
+item ID 476: Makeshift Scope : 수제작 조준경
+item ID 477: Makeshift Muffler : 수제작 소음기
+item ID 478: Rifle Clip : 소총 클립
+item ID 479: Birch Rifle (Civilian box) : 자작나무 소총
+item ID 480: Pine Rifle (Civilian box) : 소나무 소총
+item ID 481: Maple Bottle : 단풍나무 수통
+item ID 482: Birch Bottle : 자작나무 수통
+item ID 483: Pine Bottle : 소나무 수통
+item ID 484: Sportshot (Civilian box) : 스포트샷
+item ID 485: Sportshot Magazine : 스포트샷 탄창
+item ID 486: Sportshot Iron Sights : 스포트샷 기계식 조준기
+item ID 487: Makeshift Bat : 수제작 방망이
+item ID 488: Desert Eagle (High Military box) : 데저트 이글
+item ID 489: Desert Eagle Magazine : 데저트 이글 탄창
+item ID 490: Chainsaw : 전기톱
+item ID 503: Fishing Rod : 낚싯대
+item ID 504: Raw Trout: 생 송어
+item ID 505: Raw Salmon: 생 연어
+item ID 506: Birch Rod : 자작나무 낚싯대
+item ID 507: Maple Rod : 단풍나무 낚싯대
+item ID 508: Pine Rod : 소나무 낚싯대
+item ID 509: Fishing Hat : 낚시꾼 모자
+item ID 510: Fishing Top : 낚시꾼 상의
+item ID 511: Fishing Bottom : 낚시꾼 하의
+item ID 512: Cooked Trout : 요리된 송어
+item ID 513: Cooked Salmon : 요리된 연어
+item ID 514: Raw Vension : 생 사슴고기
+item ID 515: Cooked Vension : 요리된 사슴고기
+item ID 516: Leather : 가죽
+item ID 517: Leather Top : 가죽옷 상의
+item ID 518: Leather Bottom : 가죽옷 하의
+item ID 519: Rocket Launcher (Rocket) : 로켓 발사기
+item ID 520: Rocket : 로켓
+item ID 521: Rocket Launcher Iron Sights : 로켓 발사기 기계식 조준기
+
+item ID 1000: Matamorez (High Ranger box) : 마타모레즈
+item ID 1001: Matamorez Iron Sights : 마타모레즈 기계식 조준기
+item ID 1002: Matamorez Barrel : 마타모레즈 총열
+item ID 1003: Matamorez Magazine : 마타모레즈 탄창
+item ID 1004: Red Kobra Sight: 레드 코브라 조준기
+item ID 1005: Extended Matamorez Magazine : 마타모레즈 확장탄창
+item ID 1006: Extended Cobra Magazine : 코브라 확장탄창
+item ID 1007: Adaptive Chambering Attachment : 조정 장전 부착물
+item ID 1008: Rangefinder Attachmet : 거리 측정 부착물
+item ID 1009: Desert Beret : 사막 베레모
+item ID 1010: Desert Military Helmet : 사막 군모
+item ID 1011: Desert Military Top : 사막 군복 상의
+item ID 1012: Desert Military Bottom : 사막 군복 하의
+item ID 1013: Desert Military Vest : 사막 군복 조끼
+item ID 1014: Leather Pack : 가죽가방
+item ID 1015: Biohazard Top : 방호복 상의
+item ID 1016: Biohazard Bottom : 방호복 하의
+item ID 1017: Biohazard Hood : 방호모
+item ID 1018: Sabertooth (Military box) : 세이버투스
+item ID 1019: Sabertooth Iron Sights : 세이버 토스 토스 기계식 조준기
+item ID 1020: Sabertooth Magazine : 세이버 투스 토스 탄창
+item ID 1021: Avenger (Military box) : 어벤저
+item ID 1022: Avenger Magazine : 어벤저 탄창
+item ID 1023 : Police Baton : 경찰봉
+item ID 1024: Peacemaker (Military box) : 피스메이커
+item ID 1025: Peacemaker Iron Sights : 피스메이커 기계식 조준기
+item ID 1026: Peacemaker Mahazine : 피스메이커 탄창
+item ID 1027: Viper (Civilian box) : 바이퍼
+item ID 1028: Viper Iron Sights : 바이퍼 기계식 조준기
+item ID 1029: Viper Magezine : 바이퍼 탄창
+item ID 1030 : Frying Pan : 후라이팬
+item ID 1031 : Shovel : 삽
+item ID 1032 : Crowbar : 크로우바
+item ID 1033 : Paddle : 노
+item ID 1034 : Pitchfork : 삼지창
+item ID 1035 : Machete : 마체테
+item ID 1036 : Katana : 카타나
+item ID 1037: Heartbreaker (Military box) : 하트브레이커
+item ID 1039: Kryzkarek (Civilian box)  : 크리즈카렉
+item ID 1040: Kryzkarek Magazine : 크리야렉 탄창
+item ID 1041: Yuri (Ranger box) : 유리
+item ID 1042: Yuri Magazine : 유리 탄창
+item ID 1043: Yuri Iron Sights : 유리 기계식 조준기
+item ID 1044: Civilian Night Nision Goggles : 민간 야간 투시경
+item ID 1045: Pumpkin Seed : 호박 씨앗
+item ID 1046: Pumpkin : 호박
+item ID 1047: Pumpkin Pie : 호박 파이
+item ID 1048: Hockey Mask : 하키 마스크 ( 할로윈 )
+item ID 1049: Jack-O-Lantern Torch : 잭 오 렌턴 토치
+item ID 1050: Safezone Radiator : 세이프존 생성기 ( 발전기 )
+item ID 1051: 5$ Note : 5달러
+item ID 1052: 10$ Note : 10달러
+item ID 1053: 20$ Note : 20달러
+item ID 1054: 50$ Note : 50달러
+item ID 1055: 100$ Note : 100달러
+item ID 1056: Loonie : 1달러 동전
+item ID 1057: Toonie : 2달러 동전
+item ID 1058: Large Maple Plate : 큰 단풍나무 판자
+item ID 1059: Small Maple Plate : 작은 단풍나무 판자
+item ID 1060: Large Maple Frame : 큰 단풍나무 뼈대
+item ID 1061: Small Maple Frame : 작은 단풍나무 뼈대
+item ID 1062: Maple Slitem IDing : 단풍나무 측선
+item ID 1063: Maple Pipe : 단풍나무 파이프
+item ID 1064: Large Birch Plate : 큰 자작나무 판자
+item ID 1065: Small Birch Plate : 작은 자작나무 판자
+item ID 1066: Large Birch Frame : 큰 자작나무 뼈대
+item ID 1067: Small Birch Frame : 작은 자작나무 뼈대
+item ID 1068: Birch Slitem IDing : 자작나무 측선
+item ID 1069: Birch Pipe : 자작나무 파이프
+item ID 1070: Large Pine Plate : 큰 소나무 판자
+item ID 1071: Small Pine Plate : 작은 소나무 판자
+item ID 1072: Large Pine Frame : 큰 소나무 뼈대
+item ID 1073: Small Pine Frame : 작은 소나무 뼈대
+item ID 1074: Pine Slitem IDing : 소나무 측선
+item ID 1075: Pine Pipe : 소나무 파이프
+item ID 1076: Amber Pie : 황색 열매 파이
+item ID 1077: Indigo Pie : 파란색 열매 파이
+item ID 1078: Jade Pie : 옥색 열매 파이
+item ID 1079: Mauve Pie : 연보라색 열매 파이
+item ID 1080: Russet Pie : 적갈색 열매 파이
+item ID 1081: Teal Pie : 청록색 열매 파이
+item ID 1082: Vermillion Pie : 빨간색 열매 파이
+item ID 1083: Maple Doorframe : 단풍나무 문 뼈대
+item ID 1084: Maple Garageframe : 단풍나무 차고 뼈대
+item ID 1085: Birch Doorframe : 자작나무 문 뼈대
+item ID 1086: Birch Garageframe : 자작나무 차고 뼈대
+item ID 1087: Pine Doorframe : 소나무 문 뼈대
+item ID 1088: Pine Garageframe : 소나무 차고 뼈대
+item ID 1089: Metal Doorframe : 철제 문 뼈대
+item ID 1090: Metal Garageframe : 철제 차고 뼈대
+item ID 1091: Large Metal Plate : 큰 철제 판자
+item ID 1092: Small Metal Plate : 작은 철제 판자
+item ID 1093: Metal Slitem IDing : 철제 측선
+item ID 1094: Metal Pipe : 철제 파이프
+item ID 1095: Maple Sign : 단풍나무 표지판
+item ID 1096: Birch Sign : 자작나무 표지판
+item ID 1097: Pine Sign : 소나무 표지판
+item ID 1098: Metal Sign : 철제 표지판
+item ID 1099: Makeshift Vehicle : 수제 자동차
+item ID 1100: C4 : 투척형 접착 폭탄
+item ID 1101: Landmine : 부착형 지뢰
+item ID 1102: Claymore : 클레이모어, 부착형 지뢰
+item ID 1103: Black Umbrella : 검은색 우산
+item ID 1104: Amber Seed : 황색 열매 씨앗
+item ID 1105: Indigo Seed : 파란색 열매 씨앗
+item ID 1106: Jade Seed : 옥색 열매 씨앗
+item ID 1107: Mauve Seed : 연보라색 열매 씨앗
+item ID 1108: Russet Seed : 적갈색 열매 씨앗
+item ID 1109: Teal Seed : 청록색 열매 씨앗
+item ID 1110: Vermillion Seed : 빨간색 열매 씨앗
+item ID 1111: 6 Seater Makeshift Vehicle : 6인승 수제 자동차
+item ID 1112: 1 Seater Makeshift Vehicle : 1인승 수제 자동차
+item ID 1113: Snare : 덫
+item ID 1114: Maple Gas Can : 단풍나무 가스캔 연료통 가스통
+item ID 1115: Birch Gas Can : 자작나무 가스캔 연료통 가스통
+item ID 1116: Pine Gas Can : 소나무 가스캔 연료통 가스통
+item ID 1117: Pork : 생 돼지고기
+item ID 1118: Bacon : 요리된 돼지고기, 베이컨
+item ID 1119: Barbedwire Fence : 철책
+item ID 1120: Raw Beef : 생 소고기
+item ID 1121: Cooked Beef : 요리된 소고기
+item ID 1122: Blue Umbrella : 파란색 우산
+item ID 1123: Green Umbrella : 초록색 우산
+item ID 1124: Orange Umbrella : 주황색 우산
+item ID 1125: Purple Umbrella : 보라색 우산
+item ID 1126: Red Umbrella : 빨간색 우산
+item ID 1127: White Umbrella : 하얀색 우산
+item ID 1128: Yellow Umbrella : 노란색 우산
+item ID 1129: Heatstim : 핫팩
+item ID 1130: Ornamental Barbed Wire : 크리스마스 장식된 가시철조망
+item ID 1131: Ornamental Barbedwire Fence : 크리스마스 장식된 철책
+item ID 1132: Snowball : 눈덩이 수류탄
+item ID 1133: Black Scarf : 검은색 스카프
+item ID 1134: Blue Scarf : 파란색 스카프
+item ID 1135: Green Scarf : 초록색 스카프
+item ID 1136: Orange Scarf : 주황색 스카프
+item ID 1137: Purple Scarf : 보라색 스카프
+item ID 1138: Red Scarf : 빨간색 스카프
+item ID 1139: White Scarf : 하얀색 스카프
+item ID 1140: Yellow Scarf : 노란색 스카프
+item ID 1143: Sawed-Off Masterkey (20 Gauge Shells) : 소드오프 마스터키
+item ID 1144: Large Birch Plate : 큰 자작나무 삼각형 판자
+item ID 1145: Large Birch Plate : 큰 자작나무 직각삼각형 판자
+item ID 1146: Large Maple Plate : 큰 단풍나무 삼각형 판자
+item ID 1147: Large Maple Plate : 큰 단풍나무 직각삼각형 판자
+item ID 1148: Large Pine Plate : 큰 소나무 삼각형 판자
+item ID 1149: Large Pine Plate : 큰 소나무 직각삼각형 판자
+item ID 1150: Small Birch Plate : 작은 자작나무 삼각형 판자
+item ID 1151: Small Birch Plate : 작은 자작나무 직각삼각형 판자
+item ID 1152: Small Maple Plate : 작은 단풍나무 삼각형 판자
+item ID 1153: Small Maple Plate : 작은 단풍나무 직각삼각형 판자
+item ID 1154: Small Pine Plate : 작은 소나무 삼각형 판자
+item ID 1155: Small Pine Plate : 작은 소나무 직각삼각형 판자
+item ID 1156: Theif Top : 도둑 상의
+item ID 1157: Theif Bottom : 도둑 하의
+item ID 1158: Claim Flag : 깃발
+item ID 1159: Maple Syrup : 메이플 시렵
+item ID 1160: Pancake : 팬케익
+item ID 1161: Waffle : 와플
+item ID 1162: Dough : 반죽
+item ID 1163: Doughnut : 도넛
+item ID 1164: Pizza : 피자
+item ID 1165: Nailgun (Nailgun Magazine): 타정기(못총)
+item ID 1166: Nailgun Magazine : 타정기(못총) 탄창
+item ID 1168: Civilian Vest : 민간 조끼
+item ID 1169: Spec Ops : 특수부대 조끼
+item ID 1169: Spec Ops Vest : 특수부대 조끼
+item ID 1170: Spec Ops Rucksack : 특수부대 가방
+item ID 1171: Spec Ops Top : 특수부대 상의
+item ID 1172: Spec Ops Bottom : 특수부대 하의
+item ID 1173: Makeshift Armor : 자작 방탄복
+item ID 1174: Scythe : 낫
+item ID 1175: Chart : 도표(지도)
+item ID 1176: GPS : GPS 수신기
+item ID 1177: Military Tracer : 군용 예광탄
+item ID 1178: Diving Tank : 산소통
+item ID 1179: Wetsuit Top : 잠수복 상의
+item ID 1180: Wetsuit Bottom : 잠수복 하의
+item ID 1181: Snorkel : 스노클
+item ID 1182: Black DuffleBag : 검은색 더플팩
+item ID 1183: Blue DuffleBag : 파란색 더플팩
+item ID 1184: Green DuffleBag : 초록색 더플팩
+item ID 1185: Orange DuffleBag : 주황색 더플팩
+item ID 1186: Purple DuffleBag : 보라색 더플팩
+item ID 1187: Red DuffleBag : 빨간색 더플팩
+item ID 1188: White DuffleBag : 흰색 더플팩
+item ID 1189: Yellow DuffleBag : 노란색 더플팩
+item ID 1190: Ranger Muzzle : 레인저 소염기
+item ID 1191: Ranger Barrel : 레인저 총열
+item ID 1192: High Caliber Military Ammunition Crate : 대구경 군용 탄약 상자
+item ID 1193: High Caliber Ranger Ammunition Crate : 대구경 레인저 탄약 상자
+item ID 1194: Horde Beacon : 좀비무리 비콘 ( 발전기 )
+item ID 1195: Handcuffs : 수갑
+item ID 1196: Handcuffs Key : 수갑 키
+item ID 1197: Cable Tie : 케이블 타이
+item ID 1198: Pickaxe : 곡괭이
+item ID 1199: Headlamp : 헤드랜턴
+item ID 1200 : Military Fragmentation Magazine : 군용 파쇄탄
+item ID 1201: Military Nightvision Scope : 군용 나이트비전 조준경
+item ID 1202: Maple Rifle Rack : 단풍나무 총기 거치대
+item ID 1203: Birch Rifle Rack : 자작나무 총기 거치대
+item ID 1204: Pine Rfile Rack : 소나무 총기 거치대
+item ID 1205: Maple Trophy Case : 단풍나무 전리품 케이스
+item ID 1206: Birch Trophy Case : 자작나무 전리품 케이스
+item ID 1207: Pine Trophy Case : 소나무 전리품 케이스
+item ID 1208: Rain Barrel : 빗물 저장 탱크
+item ID 1209: Explosive Arrow : 폭팔성 화살
+item ID 1210: Brick Doorway : 벽돌 출입구
+item ID 1211: Brick Garage : 벽돌 차고
+item ID 1212: Brick Pillar : 벽돌 기둥
+item ID 1213: Brick Post : 벽돌 반기둥
+item ID 1214: Brick Rampart : 벽돌 반벽
+item ID 1215: Brick Wall : 벽돌 벽
+item ID 1216: Brick Window : 벽돌 창문
+item ID 1217: Brick Doorfalme : 벽돌 문 뼈대
+item ID 1218: Brick Garageframe : 벽돌 차고 뼈대
+item ID 1219: Oil Derrick : 굴착기
+item ID 1220: Metal Rack : 철제 총기 거치대
+item ID 1221: Metal Trophy Case : 철제 전리품 케이스
+item ID 1222: Cagelight : 전등
+item ID 1223: Maple Shutter : 단풍나무 셔터
+item ID 1224: Birch Shutter : 자작나무 셔터
+item ID 1225: Pine Shutter : 소나무 셔터
+item ID 1226: Metal Shutter : 철제 셔터
+item ID 1227: Tanktrap : 대전차 방해물
+item ID 1228: Water Tank : 물 탱크
+item ID 1229: Fuel Tank : 기름 탱크
+item ID 1230: Industral Generator : 공업용 발전기
+item ID 1231: Maple Flag : 단풍나무 깃발
+item ID 1232: Birch Flag : 자작나무 깃발
+item ID 1233: Pine Flag : 소나무 깃발
+item ID 1234: Metal Flag : 철제 깃발
+item ID 1235: Maple Doubledoor : 단풍나무 차고문(양쪽 여닫이)
+item ID 1236: Birch Doubledoor : 자작나무 차고문(양쪽 여닫이)
+item ID 1237: Pine Doubledoor : 소나무 차고문(양쪽 여닫이)
+item ID 1238: Metal Doubledoor : 철제 차고문(양쪽 여닫이)
+item ID 1239: Large Slippery Plate : 철제 미끄럼판
+item ID 1240: Detonator : 폭발 버튼
+item ID 1241: Charge : 점착 폭탄
+item ID 1242: Makeshift Grenade : 수제작 수류탄
+item ID 1243: Cot : 침대
+item ID 1244: Sentry : 샌트리건
+item ID 1245: Maple Counter : 단풍나무 수납장
+item ID 1246: Birch Counter : 자작나무 수납장
+item ID 1247: Pine Counter : 소나무 수납장
+item ID 1248: Metal Counter : 철제 수납장
+item ID 1249: Fritem IDge : 냉장고
+item ID 1250: Oven : 오븐
+item ID 1251: Maple Counter Sink : 단풍나무 싱크대
+item ID 1252: Birch Counter Sink : 자작나무 싱크대
+item ID 1253: Pine Counter Sink : 소나무 싱크대
+item ID 1254: Metal Counter Sink : 철제 싱크대
+item ID 1255: Lamp : 전등
+item ID 1256: Couch : 소파
+item ID 1257: Maple Library : 단풍나무 책꽂이
+item ID 1258: Birch  Library : 자작나무 책꽂이
+item ID 1259: Pine  Library : 소나무 책꽂이
+item ID 1260: Metal Library : 철제 책꽂이
+item ID 1261: Oxygenator : 산소 공급기
+item ID 1262: Triangular Maple Floor : 단풍나무 삼각형 바닥
+item ID 1263: Triangular Birch Floor : 자작나무 삼각형 바닥
+item ID 1264: Triangular Pine Floor : 소나무 삼각형 바닥
+item ID 1265: Triangular Metal Floor : 철제 삼각형 바닥
+item ID 1266: Triangular Maple Roof : 단풍나무 삼각형 지붕
+item ID 1267: Triangular Birch Roof : 자작나무 삼각형 지붕
+item ID 1268: Triangular Pine Roof : 소나무 삼각형 지붕
+item ID 1269: Triangular Metal Roof : 철제 삼각형 지붕
+item ID 1270: Gasmask : 방독면
+item ID 1271: Radiation Filter : 방사선 필터
+item ID 1272: Blue Flare : 벽걸이형 파란색 신호탄
+item ID 1273: Green Flare : 벽걸이형 초록색 신호탄
+item ID 1274: Orange Flare : 벽걸이형 주황색 신호탄
+item ID 1275: Purple Flare : 벽걸이형 보라색 신호탄
+item ID 1276: Red Flare : 벽걸이형 빨간색 신호탄
+item ID 1277: Yellow Flare : 벽걸이형 노란색 신호탄
+item ID 1278: Maple Wardrobe : 단풍나무 옷장
+item ID 1279: Birch Wardrobe : 자작나무 옷장
+item ID 1280: Pine Wardrobe : 소나무 옷장
+item ID 1281: Metal Wardrobe : 철제 옷장
+item ID 1282: Umbrella : 파라솔
+item ID 1283: Cooler : 아이스박스
+item ID 1284: Maple Rectangular Table : 단풍나무 직사각형 책상
+item ID 1285: Birch Rectangular Table : 자작나무 직사각형 책상
+item ID 1286: Pine Rectangular Table : 소나무 직사각형 책상
+item ID 1287: Metal Rectangular Table : 철제 직사각형 책상
+item ID 1288: Maple Circular Table : 단풍나무 원형 책상
+item ID 1289: Birch Circular Table : 자작나무 원형 책상
+item ID 1290: Pine Circular Table : 소나무 원형 책상
+item ID 1291: Metal Circular Table : 철제 원형 책상
+item ID 1292: Maple Square Table : 단풍나무 정사각형 책상
+item ID 1293: Birch Square Table : 자작나무 정사각형 책상
+item ID 1294: Pine Square Table : 소나무 정사각형 책상
+item ID 1295: Metal Square Table : 철제 정사각형 책상
+item ID 1296: Beach Chair : 해변 의자
+item ID 1297: Weak Glass : 약한 유리
+item ID 1298: Bulletproof Glass : 방탄 유리
+item ID 1299: One-Way Glass : 특수유리
+item ID 1300: Tank Cannon : 탱크 캐논(차량)
+item ID 1302: Missile : 미사일
+item ID 1303: Blue Couch : 파란색 소파
+item ID 1304: Green Couch : 초록색 소파
+item ID 1305: Orange Couch : 주황색 소파
+item ID 1306: Purple Couch : 보라색 소파
+item ID 1307: Red Couch : 빨간색 소파
+item ID 1308: Yellow Couch : 노란색 소파
+item ID 1309: Blue Cot : 파란색 침대
+item ID 1310: Green Cot : 초록색 침대
+item ID 1311: Orange Cot : 주황색 침대
+item ID 1312: Purple Cot : 보라색 침대
+item ID 1313: Red Cot : 빨간색 침대
+item ID 1314: Yellow Cot : 노란색 침대
+item ID 1315: Blue Beach Chair : 파란색 해변 의자
+item ID 1316: Green Beach Chair : 초록색 해변 의자
+item ID 1317: Orange Beach Chair : 주황색 해변 의자
+item ID 1318: Purple Beach Chair : 보라색 해변 의자
+item ID 1319: Red Beach Chair : 빨간색 해변 의자
+item ID 1320: Yellow Beach Chair : 노란색 해변 의자
+item ID 1321: Blue Umbrella : 파란색 우산
+item ID 1322: Green Umbrella : 초록색 우산
+item ID 1323: Orange Umbrella : 주황색 우산
+item ID 1324: Purple Umbrella : 보라색 우산
+item ID 1325: Red Umbrella : 빨간색 우산
+item ID 1326: Yellow Umbrella : 노란색 우산
+item ID 1327: Book : 책
+item ID 1328: Note : 노트
+item ID 1329: Maple Hatch : 단풍나무 해치
+item ID 1330: Birch Hatch : 자작나무 해치
+item ID 1331: Pine Hatch : 소나무 해치
+item ID 1332: Metal Hatch : 철제 해치
+item ID 1333: Russia Military Top : 러시아 군복 상의
+item ID 1334: Russia Military Bottom : 러시아 군복 하의
+item ID 1335: Russia Military Helmet : 러시아 군모
+item ID 1336: Russia Military Vest : 러시아 군복
+item ID 1337: Paintball Gun (Paintball Hopper) : 페인트건
+item ID 1339: Blue Paintball Hopper : 파란색 페인트볼 탄창
+item ID 1340: Green Paintball Hopper : 초록색 페인트볼 탄창
+item ID 1341: Orange Paintball Hopper : 주황색 페인트볼 탄창
+item ID 1342: Purple Paintball Hopper : 보라색 페인트볼 탄창
+item ID 1343: Red Paintball Hopper : 빨간색 페인트볼 탄창
+item ID 1344: Yellow Paintball Hopper : 노란색 페인트볼 탄창
+item ID 1345: Plot : 농지
+item ID 1346: Flashbang : 섬광탄
+item ID 1347: Raw Minnow : 생 피라미
+item ID 1348: Cooked Minnow : 요리된 피라미
+item ID 1349: Raw Goldfish : 생 금붕어
+item ID 1350: Cooked Goldfish : 요리된 금붕어
+item ID 1351: Raw Bass : 생 배스
+item ID 1352: Cooked Bass : 요리된 배스
+item ID 1353: Stealy Wheely Automobiley : 차 따개
+item ID 1354: Russia Ghillie Top : 러시아 길리 상의
+item ID 1355: Russia Ghille Bottom : 러시아 길리 하의
+item ID 1356: Russia Ghillie Hood : 러시아 길리 후드
+item ID 1357: Russia Ghillie Vest : 러시아 길리 조끼
+item ID 1358: Pilot Top : 조종사 상의
+item ID 1359: Pilot Cap : 조종사 모자
+item ID 1360: Teklowvka (Ranger box) : 테크로브카
+item ID 1361: Teklowvka Magazine : 테크크로브카 탄창
+item ID 1362: Augewehr (Ranger box) : 어거베어
+item ID 1363: Augewehr Scope : 어게베어 조준경
+item ID 1364: Hell's Fury (Ranger box) : 헬즈퓨리
+item ID 1365: Hell's Fury Drum : 헬즈퓨리 탄창
+item ID 1366: Vonya (Vonya Mag+12 Gauge Shells)  : 보냐
+item ID 1367: Vonya Iron Sights : 보냐 기계식 조준기
+item ID 1368: Vonya Magazine : 보냐 탄창
+item ID 1369: Bulldog (Ranger box) : 불독
+item ID 1370: Bulldog Iron Sights : 불독 기계식 조준기
+item ID 1371: Bulldog Magazine : 불독 탄창
+item ID 1372: Friendly Sentry : 친화적 센트리건
+item ID 1373: Hostile Sentry : 적대적 센트리건
+item ID 1375: Fusilaut (Ranger box) : 퓨지우드
+item ID 1376: Fusilaut Iron Sights : 퓨지우드 기계식 조준기
+item ID 1377: Nightraitem IDer (Ranger box) : 나이트레이더
+item ID 1378: Nightraitem IDer Iron Sights : 나이트레이더 기계식 조준기
+item ID 1379: Calling Card (Ranger box)  : 콜링카드
+item ID 1380: Calling Card Iron Sights : 콜링카드 기계식 조준기
+item ID 1381: Calling Card Drum : 콜링카드 탄창
+item ID 1382: Ekho (High Ranger box) : 에코
+item ID 1383: Ekho Iron Sights : 에코 기계식 조준기
+item ID 1384: Ekho Magazine : 에코 탄창
+item ID 1385: Mafia Fedora : 마피아 패도라
+item ID 1386: Mafia Tuxedo Top : 마피아턱시도 상의
+item ID 1387: Mafia Tuxedo Bottom : 마피아턱시도 하의
+item ID 1388: Russia Beret : 러시아 베레모
+item ID 1389: Spec Ops Beret : 특수부대 베레모
+item ID 1390 : Cue : 당구대
+item ID 1391: Tracksuit Top : 운동복 상의
+item ID 1392: Tracksuit Bottom : 운동복 하의
+item ID 1393: Precision Charge : 진압용 점착폭탄
+item ID 1394: HMG HMG : 헬기기총(헬기)
+item ID 1395: HMG Box : HMG박스(헬기)
+item ID 1396: Ghillie Netting : 길리 위장그물
+item ID 1397: Russia Ghillie Netting : 러시아 길리 위장그물
+item ID 1398: Trout Sandwich: 송어 샌드위치
+item ID 1399: Salmon Sandwich: 연어 샌드위치
+item ID 1400: Minnow Sandwich: 미노 샌드위치
+item ID 1401: Goldfish Sandwich: 금붕어 샌드위치
+item ID 1402: Venison Sandwich: 사슴고기 샌드위치
+item ID 1403: Bass Sandwich: 배스 샌드위치
+item ID 1404: Beef Sandwich: 쇠고기 샌드위치
+item ID 1405: Cheese Steak Sandwich: 치즈 스테이크 샌드위치
+item ID 1406: BLT Sandwich : BLT샌드위치
+item ID 1407: Beef Sandwich : 쇠고기 샌드위치
+item ID 1408: Cloth Mannequin : 천 마네킹
+item ID 1409: Metal Mannequin : 금속 마네킹
+item ID 1410: Maple Plaque : 단풍나무 상패
+item ID 1411: Brich Plaque : 자작나무 상패
+item ID 1412: Pine Plaque : 소나무 상패
+item ID 1413: Metal Plaque : 금속 상패
+item ID 1414: Maple Ramp Wall : 단풍나무 램프벽
+item ID 1415: Brich Ramp Wall : 자작나무 램프벽
+item ID 1416: Pine Ramp Wall : 소나무 램프벽
+item ID 1417: Metal Ramp Wall : 철제 램프벽
+item ID 1418: Brick Ramp Wall : 벽돌 램프벽
+item ID 1419: Coalition Bottom : 연합군 하의
+item ID 1420: Ensign Coalition Top : 연합군 소위 상의
+item ID 1421: Lieutenant Coalition Top : 연합군 대위 상의
+item ID 1422: Major Coalition Top : 연합군 소령 상의
+item ID 1423: Commander Coalition Top : 연합군 중령 상의
+item ID 1424: Captain Coalition Top : 연합군 대령 상의
+item ID 1425: Coalition Vest : 연합군 조끼
+item ID 1426: Coalition Cap : 연합군 모자
+item ID 1427: Coalition Helmet : 연합군 헬멧
+item ID 1428: Coalition Beret : 연합군 베레모
+item ID 1429: Coalition Captain Hat : 연합군 대령 모자
+item ID 1430: Upgraded Cake Blueprint : 업그레이드 된 케이크 청사진
+item ID 1431: Upgraded Cake : 업그레이드 된 케이크
+item ID 1432: Upgraded Fishing Rod : 업그레이드 된 낚시대
+item ID 1433: Upgraded Fishing Rod Blueprint : 업그레이드 된 낚시대 청사진(설계도면)
+item ID 1434: Raw Squitem ID : 생 오징어
+item ID 1435: Cooked Squitem ID : 요리된 오징어
+item ID 1436: Quadbarrel : 쿼드베럴, 샷건
+item ID 1437: QuadBarrel Blueprint : [퀘스트] 쿼드벨럴 청사진(설계도면)
+item ID 1438: Bayonet : 바요넷, 총검, 착검
+item ID 1439: Bayonet Blueprint : [퀘스트] 바요넷 총검 청사진(설계도면)
+item ID 1440: Industrial Gas Can : 공업용(산업용) 가스캔 연료통 가스통
+item ID 1441: Shadowstalker Mk II : 쉐도우스토커 MK 2
+item ID 1442: Shadowstalker Mk II Scope : 쉐도우스토커 MK 2 조준경
+item ID 1443: Shadowstalker Mk II Drum : 쉐도우스토커 MK 2 드럼
+item ID 1444: Bluntforce Muffler : 블런트포스 소음기
+item ID 1445: Walkie Talkie : 무전기
+item ID 1446: Earpiece : 이어폰
+item ID 1447: Scalar : 스칼라
+item ID 1448: Scalar Iron Sights : 스칼라 기계식 조준기
+item ID 1449: Scalar Magazine : 스칼라 탄창
+item ID 1450: Vehicle Battery : 차량 배터리
+item ID 1451: Tire : 타이어
+item ID 1452:  Whole Coconut : 온전한 코코넛
+item ID 1453: Split Coconut : 쪼개진 코코넛
+item ID 1454: Black Trunks : 검은색 수영바지
+item ID 1455: Blue Trunks : 파란색 수영바지
+item ID 1456: Green Trunks : 초록색 수영바지
+item ID 1457: Orange Trunks : 주황색 수영바지
+item ID 1458: Purple Trunks : 보라색 수영바지
+item ID 1459: Red Trunks : 빨간색 수영바지
+item ID 1460: White Trunks : 하얀색 수영바지
+item ID 1461: Yellow Trunks : 노란색 수영바지
+item ID 1462: Coastguard Top : 해안 경비대 상의
+item ID 1463: Coastguard Bottom  : 해안 경비대 하의
+item ID 1464: Blindfold  :  눈가리개
+item ID 1465: Picket Sign (스폰 불가능) : 말뚝 표지판
+item ID 1466: Stereo : 스테레오
+item ID 1467: Maple Placard : 단풍나무 플래카드
+item ID 1468: Birch Placard : 자작나무 플래카드
+item ID 1469: Pine Placard : 소나무 플래카드
+item ID 1470: Metal Placard : 철제 플래카드
+item ID 1471: HMG Fighter Jet : 전투기 기총(전투기)
+item ID 1472: Fighter Pilot Helmet : 전투기 파일럿 헬멧
+item ID 1473: Fighter Pilot Top : 전투기 파일럿 상의
+item ID 1474: Fighter Pilot Bottom : 전투기 파일릿 하의
+item ID 1475: Jackhammer : 잭해머
+item ID 1476: Lugar : 루거
+item ID 1477: Maschinengewehr : 마쉬넨게베어
+item ID 1478: Maschinengewehr Iron Sights : 마쉬넨게베어 기계식 조준기
+item ID 1479: Maschinengewehr Magazine : 마쉬넨게베어 탄창
+item ID 1480: Determinator : 디터미네이터
+item ID 1481: Empire : 임파이어
+item ID 1482: Empire Iron Sights : 임파이어 기계식 조준기
+item ID 1483: Empire Magazine : 임파이어 탄창
+item ID 1484: Devil's Bane : 데빌스 본
+item ID 1485: Devil's Bane Magazine : 데빌스 본 탄창
+item ID 1486: Devil's Bane Iron Sights : 데빌스 본 기계식 조준기
+item ID 1487: Lugar Magazine: 루거 탄창
+item ID 1488: Swissgewehr: 스위스게베어
+item ID 1489: Swissgewehr Iron Sights : 스위스게베어 기계식 조준기
+item ID 1490: Swissgewehr Magazine : 스위스게베어 탄창
+item ID 1491: German Military Top : 독일 군복 상의
+item ID 1492: German Ghillie Top : 독일 길리 상의
+item ID 1493: German Ghillie Bottom : 독일 길리 하의
+item ID 1494: German Ghillie Hood : 독일 길리 후드
+item ID 1495: German Ghillie Vest : 독일 길리 조끼
+item ID 1498: Lederhosen Top : 레이더호젠 상의
+item ID 1499: Lederhosen Bottom : 레이더호젠 하의
+item ID 1500: German Ghillie Netting : 독일 길리 위장그물
+item ID 1503: Zweihander : 츠바이한더
+item ID 1504: Pickelhaube : 피켈하우베
+item ID 1505: Kaiser Top : 카이저 상의
+item ID 1506: Kaiser Bottom : 카이저 하의
+item ID 1507: Socketwrench: 소켓렌치
+item ID 1508: Compass : 나침반
+item ID 1509: Clock : 시계
+
+item ID 1800: Red Glider : 빨간색 글라이더
+item ID 1801: Blue Glider : 파란색 글라이더
+item ID 1802: Green Glider : 초록색 글라이더
+item ID 1803: Orange Glider : 주황색 글라이더
+item ID 1804: White Glider : 하얀색 글라이더
+item ID 1805: Purple Glider : 보라색 글라이더
+item ID 1806: Black Glider : 검은색 글라이더
+
+
