@@ -1,4 +1,4 @@
-201710081
+201710160
 
 Vehicle ID 1: Black Offroader : 검은색 오프로더
 Vehicle ID 2: Blue Offroader : 파란색 오프로더
@@ -173,6 +173,8 @@ Vehicle ID 180: Purple Dirtbike : 보라색 비포장 도로용 오토바이
 Vehicle ID 181: Red Dirtbike : 빨간색 비포장 도로용 오토바이
 Vehicle ID 182: White Dirtbike : 하얀색 비포장 도로용 오토바이
 Vehicle ID 183: Yellow Dirtbike : 노란색 비포장 도로용 오토바이
+
+Vehicle ID 184: Bicycle : 자전거/이륜차 
 
 Vehicle ID 802: Armoured Police Truck : 장갑 경찰 트럭 
 Vehicle ID 803: Commander : 커맨더
