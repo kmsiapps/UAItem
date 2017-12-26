@@ -1,4 +1,4 @@
-201712250
+201712260
 
 Vehicle ID 1: Black Offroader : 검은색 오프로더
 Vehicle ID 2: Blue Offroader : 파란색 오프로더
@@ -228,6 +228,13 @@ Vehicle ID 846: Auto Gyro : 오토자이로
 Vehicle ID 847: Delivery Truck : 하물 배달 트럭
 Vehicle ID 848: Makeshift Raft : 수제 뗏목
 Vehicle ID 849: Hot Air Balloon : 열기구
+
+Vehicle ID 3500: Spartan : 스파르탄
+Vehicle ID 3501: Chariot : 2륜 전차
+Vehicle ID 3502: Cerberus : 세르베루스
+Vehicle ID 3503: Metafora : 캠핑카
+Vehicle ID 3504: Police Car : 그리스 경찰차
+Vehicle ID 3505: Grasslands Chinook : 그리스 치누크 헬기
 
 
 Animal ID 1: Deer : 사슴
@@ -1270,5 +1277,44 @@ item ID 1803: Orange Glider : 주황색 글라이더
 item ID 1804: White Glider : 하얀색 글라이더
 item ID 1805: Purple Glider : 보라색 글라이더
 item ID 1806: Black Glider : 검은색 글라이더
+
+item ID 3000: MLRS Pod : 다연장 로켓 발사대(차량)
+item ID 3001: MLRS Pod : 다연장 로켓 묶음
+item ID 3002: MLRS Rocket : 다연장 로켓
+item ID 3003: Grasslands Military Top : 그리스 군복 상의
+item ID 3004: Grasslands Military Bottom : 그리스 군복 하의
+item ID 3005: Lance Corporal Military Top : 그리스 일등병 상의
+item ID 3006: Corporal Military Top : 그리스 상등병 상의
+item ID 3007: Sergeant Military Top : 그리스 병장 상의
+item ID 3008: Sergeant 1st Class Military Top : 그리스 중사 상의
+item ID 3009: Master Sergeant Military Top : 그리스 상사 상의
+item ID 3010: Grasslands Military Vest : 그리스 군용 방탄복
+item ID 3011: Military Boonie Hat : 그리스 군용 부니햇
+item ID 3012: Chimera : 키메라
+item ID 3013: Chimera Magazine : 키메라 탄창
+item ID 3014: Chimera Iron Sight : 키메라 기계식 조준기
+item ID 3015: Kopis : 코피스
+item ID 3016: Kopis Magazine : 코피스 탄창
+item ID 3017: Lancer : 랜서
+item ID 3018: Lancer Rocket : 랜서 로켓
+item ID 3019: Lancer Scope : 랜서 스코프
+item ID 3020: Backlash : 백래시
+item ID 3021: Backlash Iron Sight : 백래시 기계식 조준기
+item ID 3022: Lockdown : 락다운
+item ID 3023: Lockdown Magazine : 락다운 탄창
+item ID 3024: Lockdown Iron Sight : 락다운 기계식 조준기
+item ID 3025: Omega Uniform Bottom : 오메가 유니폼 하의
+item ID 3026: Omega Hoplite Top :오메가 보병 상의
+item ID 3027: Omega Captain Top : 오메가 대위 상의
+item ID 3028: Omega Battalion Leader Top : 오메가 대대장 상의
+item ID 3029: Omega Colonel Top : 오메가 연대장 상의
+item ID 3030: Omega Brigadier Top : 오메가 여단장 상의
+item ID 3031: Omega Beanie Cap : 오메가 비니
+item ID 3032: Military Beanie Cap : 그리스 군용 비니
+item ID 3033: Omega Uniform Top : 오메가 유니폼 상의
+item ID 3034: General Top : 참모 상의
+item ID 3035: Offical Top : 공무원 상의
+item ID 3036: Grasslands Military Helmet : 그리스 군모
+item ID 3037: Police Helmet : 경찰 헬멧
 
 
